@@ -1,0 +1,15 @@
+# Ignore build outputs
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+*.tmp
+*.user
+*.suo
+
+# Ignore VS/IDE files
+.vs/
+*.userprefs
