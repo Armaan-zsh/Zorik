@@ -8,7 +8,7 @@ enable it via - Alt+Spacebar
 search anything like app hit enter boom 
 wanna open pdf ?
 press hotkey 
-type - :f <pdf fliename> hit enter 
+type - :f (pdf fliename) hit enter 
 there will be a pop to choose the browser choose a browser hit enter boom
 no file exlporer no bs!!!
 
